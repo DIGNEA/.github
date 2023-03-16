@@ -17,5 +17,7 @@
 
 * Marrero, A., Segredo, E., León, C., Hart, E. (2022). A Novelty-Search Approach to Filling an Instance-Space with Diverse and Discriminatory Instances for the Knapsack Problem. In: Rudolph, G., Kononova, A.V., Aguirre, H., Kerschke, P., Ochoa, G., Tušar, T. (eds) Parallel Problem Solving from Nature – PPSN XVII. PPSN 2022. Lecture Notes in Computer Science, vol 13398. Springer, Cham. https://doi.org/10.1007/978-3-031-14714-2_16
 
+* Marrero, A., Segredo, E., León, C., & Hart, E. (2023). DIGNEA: A tool to generate diverse and discriminatory instance suites for optimisation domains. SoftwareX, 22, 101355. https://doi.org/10.1016/j.softx.2023.101355
+
 
   
