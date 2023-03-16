@@ -4,7 +4,7 @@
 ---
 
 - 🔭 We are currently working on **other optimisation domains**
-- 📫 Connect with us at: amarrerd@ull.edu.es
+- 📫 Connect with us at: dignea@ull.edu.es
 
 
 <h3 align="left">DIGNEA is developed in <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="30" height="30"/> </a></h3>
